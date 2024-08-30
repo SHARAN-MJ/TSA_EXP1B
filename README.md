@@ -10,8 +10,8 @@ To perform regular differncing,seasonal adjustment and log transformatio on inte
 5. Display the overall results.
 ## PROGRAM:
 ```
-Name : Yamunaasri T S
-Reg no : 212222240117
+Name : SHARAN MJ
+Reg no : 212222240097
 ```
 ### REGULAR DIFFERENCING
 ```
