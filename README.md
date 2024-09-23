@@ -62,14 +62,18 @@ plt.xlabel('Log- Transformed data')
 ```
 
 ## OUTPUT:
+![Screenshot 2024-09-23 112214](https://github.com/user-attachments/assets/14f33c99-ee59-4de4-ac2b-393050c89ab8)
+
+
 ### REGULAR DIFFERENCING:
-![Screenshot 2024-03-06 202154](https://github.com/Yamunaasri/TSA_EXP1B/assets/115707860/907c96c3-9db8-4e90-9bc0-f8b8d3356440)
+![Screenshot 2024-09-23 112226](https://github.com/user-attachments/assets/60b1c106-c3b3-4190-92e0-726df0f63d48)
+
 
 ### SEASONAL ADJUSTMENT:
-![image](https://github.com/Yamunaasri/TSA_EXP1B/assets/115707860/e1553866-2b14-473b-9847-bac2bb04ab56)
+![Uploading Screenshot 2024-09-23 112244.png…]()
 
 ### LOG TRANSFORMATION:
-![image](https://github.com/Yamunaasri/TSA_EXP1B/assets/115707860/76e7ae9b-1487-4e33-a119-2f67e925f218)
+![Screenshot 2024-09-23 112237](https://github.com/user-attachments/assets/be2b37e3-40e6-4a75-ad3c-5f765f690164)
 
 ## RESULT:
 Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
