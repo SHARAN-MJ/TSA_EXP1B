@@ -70,7 +70,7 @@ plt.xlabel('Log- Transformed data')
 
 
 ### SEASONAL ADJUSTMENT:
-![Uploading Screenshot 2024-09-23 112244.png…]()
+![Screenshot 2024-09-23 112620](https://github.com/user-attachments/assets/e5b27e9e-5798-4d1e-bb63-2b4cc10c7e7a)
 
 ### LOG TRANSFORMATION:
 ![Screenshot 2024-09-23 112237](https://github.com/user-attachments/assets/be2b37e3-40e6-4a75-ad3c-5f765f690164)
